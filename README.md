@@ -24,5 +24,6 @@ Hi, Ini adalah pembelajaran pertama mengenai <b>HTML</b>
 <br>
 <b>- Membuat form di HTML </b>
 <br>
-<br>
-<p> Itu semua akan kita bahas disini dan belajar bareng </p>
+# Apa itu HTML?
+<p> Hyper text markup language atau bisa di singkat html merupakan suatu teks file sederhana yang mengandung "tags"<br>
+  sehingga web bisa menampilkan display tertentu </p>
