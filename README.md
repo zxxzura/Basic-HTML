@@ -26,4 +26,5 @@ Hi, Ini adalah pembelajaran pertama mengenai <b>HTML</b>
 <br>
 # Apa itu HTML?
 <p> Hyper text markup language atau bisa di singkat html merupakan suatu teks file sederhana yang mengandung "tags"<br>
-  sehingga web bisa menampilkan display tertentu </p>
+  sehingga web bisa menampilkan display tertentu.</p>
+  
