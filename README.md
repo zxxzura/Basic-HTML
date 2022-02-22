@@ -31,6 +31,7 @@ Hi, Ini adalah pembelajaran pertama mengenai <b>HTML</b>
 <p> Hyper text markup language atau bisa di singkat html merupakan suatu teks file sederhana yang mengandung "tags"<br>
   sehingga web bisa menampilkan display tertentu.</p>
   <br>
+  
 # Apa itu Tag, Element, dan Atribut?
 > Agar lebih mudah belajar HTML kalian harus tau tag, element, dan atribut
 <p> Tag adalah intruski/perintah awal yang akan di baca oleh web browser</p>
