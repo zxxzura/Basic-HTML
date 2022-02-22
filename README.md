@@ -10,4 +10,19 @@ Hi, Ini adalah pembelajaran pertama mengenai <b>HTML</b>
 <br>
 <b>- Membuat paragraf pada HTML </b>
 <br>
-<b>
+<b>- Membuat judul pada HTML </b>
+<br>
+<b>- Membuat daftar list pada HTML </b>
+<br>
+<b>- Membuat link pada HTML </b>
+<br>
+<b>- Menambahkan gambar pada HTML </b>
+<br>
+<b>- Membuat tabel pada HTML </b>
+<br>
+<b>- Menambahkan komentar pada HTML </b>
+<br>
+<b>- Membuat form di HTML </b>
+<br>
+<br>
+<p> Itu semua akan kita bahas disini dan belajar bareng </p>
