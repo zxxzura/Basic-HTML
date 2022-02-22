@@ -13,3 +13,17 @@ Kalian bisa membuat sebuah HTML menggunakan editor code :
 - NOTEPAD
 - ATOM
 - SUBLIME TEXT
+
+Ini merupakan contoh kode HTML 
+```
+<html>
+<head>
+<title>Web</title>
+</head>
+<body>
+
+<h1> Halo ini web pertama ku ! </h1>
+
+</body>
+<html>
+```
