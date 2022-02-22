@@ -16,6 +16,7 @@ Kalian bisa membuat sebuah HTML menggunakan editor code :
 
 Ini merupakan contoh kode HTML 
 ```
+<!DOCTYPE html>
 <html>
 <head>
 <title>Web</title>
