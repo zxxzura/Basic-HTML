@@ -32,5 +32,5 @@ Hi, Ini adalah pembelajaran pertama mengenai <b>HTML</b>
   sehingga web bisa menampilkan display tertentu.</p>
   
 # Apa itu Tag, Element, dan Atribut?
-> Agar lebih mudah belajar HTML kalian harus tau tag, element, dan atribut
-<p> Tag adalah intruski/perintah awal yang akan di baca oleh web browser</p>
+> Agar lebih mudah belajar HTML kalian harus tau tag, element, dan atribut.
+<p> Tag adalah intruski/perintah awal yang akan di baca oleh web browser.</p>
