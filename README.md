@@ -22,9 +22,7 @@ Ini merupakan contoh kode HTML
 <title>Web</title>
 </head>
 <body>
-
 <h1> Halo ini web pertama ku ! </h1>
-
 </body>
 <html>
 ```
