@@ -8,3 +8,8 @@ Hi, Ini adalah pembelajaran pertama mengenai <b>HTML</b>
 - Perlu diketahui HTML terdiri dari serangkaian elemen
 - Contoh Elemen : ```<h1> Ini adalah Elemen </h1>```
 
+Kalian bisa membuat sebuah HTML menggunakan editor code :
+- VS CODE
+- NOTEPAD
+- ATOM
+- SUBLIME TEXT
