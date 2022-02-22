@@ -28,3 +28,5 @@ Ini merupakan contoh kode HTML
 </body>
 <html>
 ```
+
+Ini semua singkatan mengenai HTML.
