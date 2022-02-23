@@ -10,4 +10,6 @@ Contoh : ```<img src="panda.png"/>```
 ```<h1></h1>``` Ini adalah tag heading terdapat dari h1 sampai h6. <br>
 Contoh : ```<h1> Heading 1 </h1>``` ```<h2> Heading 2 </h2>```
 <br>
+```<title></title>``` Ini adalah judul website. <br>
+Contoh : ```<title> Ini adalah judul </title>```
 
