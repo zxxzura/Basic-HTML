@@ -7,4 +7,5 @@ menuliskan perintah HTML.
 ```<html></html>``` >Merupaka tag awal atau memulai dan mengakhiri dokumen dalam HTML.
 <br>
 ```<head></head>``` >Merupakan judul website
+```<body></body>``` >Merupakan isi atau konten website
 
