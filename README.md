@@ -4,7 +4,7 @@
 - Fungsi dari HTML adalah membuat sebuah halaman website
 - File HTML diakhiri dengan extensi .html _atau_ .htm
 - Perlu diketahui HTML terdiri dari serangkaian elemen
-- Contoh Elemen : ```<h1> Ini adalah Elemen </h1>```
+- Contoh Elemen : ```<h1></h1>``` Dan masih banyak lagi.
 
 Kalian bisa membuat sebuah HTML menggunakan editor code :
 - VS CODE
@@ -25,4 +25,4 @@ Ini merupakan contoh kode HTML
 <html>
 ```
 
-Ini semua singkatan mengenai HTML.
+Ini semua singkatan mengenai HTML. 
