@@ -1,5 +1,5 @@
 
-# Tentang HTML
+# Pengenalan 
 - HTML merupakan singkatan dari <b>Hyper Text Markup Language </b>
 - Fungsi dari HTML adalah membuat sebuah halaman website
 - File HTML diakhiri dengan extensi .html _atau_ .htm
