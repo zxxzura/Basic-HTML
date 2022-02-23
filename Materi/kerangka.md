@@ -3,6 +3,7 @@
 
 ```<!DOCTYPE html>``` >Berfungsi untuk mendeklarasikan atau memberitau kepada komputer bahwa kamu ingin <br>
 menuliskan perintah HTML. 
+<br>
 ```<html></html>``` >Merupaka tag awal atau memulai dan mengakhiri dokumen dalam HTML.
 <br>
 ```<head></head>``` >Merupakan judul website
