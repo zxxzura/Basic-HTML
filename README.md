@@ -25,4 +25,4 @@ Ini merupakan contoh kode HTML
 <html>
 ```
 
-Ini semua singkatan mengenai HTML. 
+Ini semua singkatan mengenai HTML. Selengkapnya bisa di lihat didalam folder.
