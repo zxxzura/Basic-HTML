@@ -4,6 +4,6 @@
 ```
 <!DOCTYPE html>
 ```
-Berfungsi untuk mendeklarasikan atau memberitau kepada komputer bahwa kamu ingin <br>
+```<!DOCTYPE html>```Berfungsi untuk mendeklarasikan atau memberitau kepada komputer bahwa kamu ingin <br>
 menuliskan perintah HTML 
 
