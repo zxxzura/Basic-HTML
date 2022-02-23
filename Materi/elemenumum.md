@@ -4,7 +4,6 @@
 ```<p>``` Ini adalah tag awal membuat paragraf ```</p>``` dan ini tag akhir menutup paragraf. <br>
 Contoh : ```<p> Ini adalah tag paragraf </p>``` <br>
 <br>
-```<img>``` Ini merupakan tag gambar.
-<br>
+```<img>``` Ini merupakan tag gambar.<br>
 Contoh : ```<img src="panda.png"/>```
 
