@@ -5,5 +5,6 @@
 Contoh : ```<p> Ini adalah tag paragraf </p>``` <br>
 <br>
 ```<img>``` Ini merupakan tag gambar.
+<br>
 Contoh : ```<img src="panda.png"/>```
 
